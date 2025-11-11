@@ -24,7 +24,7 @@ Currently, I’m pursuing my Master’s at CMU Tepper, where I combine rigorous 
 - Built **ETL + ML pipelines** in BigQuery and Airflow, accelerating analytics by 40% and enabling full-stack experimentation.  
 - Conducted **causal inference & root cause analysis** for yield improvement and root-cause analysis, saving millions annually in production losses.  
 
-**ByteDance** — *Product Operations Intern*  
+**ByteDance** — *Product Analyst Intern*  
 - Analyzed user funnel metrics and feature adoption patterns, driving 20% better conversion through data-backed product recommendations.  
 - Collaborated with cross-functional teams to align analytics with product design and business growth strategy.
 
