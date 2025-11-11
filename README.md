@@ -56,7 +56,7 @@ Exploring how **predictive analytics, causal inference, and LLMs** can drive dat
 ## 📫 Let’s Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhrubajyoti-ray-38186646/)  
-- 🧠 [Medium]([https://medium.com/@ankur.ray1999])  
+- 🧠 [Medium](https://medium.com/@ankur.ray1999)  
 - 📧 dtray@tepper.cmu.edu | djray1833@gmail.com 
 - 🌐 [GitHub](https://github.com/ankur-ray23)  
 
