@@ -9,7 +9,7 @@
 ## 💡 About Me  
 I’m a data-driven problem solver passionate about transforming business challenges into measurable impact through **machine learning**, **statistical modeling**, and **data storytelling**. My work bridges the gap between analytics and strategy — enabling smarter decisions and scalable systems across industries.
 
-Currently, I’m pursuing my Master’s at CMU Tepper, where I combine rigorous quantitative methods with product thinking to build robust analytical solutions that create tangible business value.
+I recently graduated with my Master’s from CMU Tepper, where I combined rigorous quantitative methods with product thinking to build robust analytical solutions that created tangible business value.
 
 ---
 
