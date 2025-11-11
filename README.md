@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhrubajyoti Ray  
 
-🎓 **MS in Business Analytics** @ Carnegie Mellon University, Tepper School of Business  
-💼 Former **Data Scientist at Micron Technology** | Product Operations Intern @ **ByteDance**  
+🎓 **Former MS in Business Analytics student** @ Carnegie Mellon University, Tepper School of Business  
+💼 Former **Data Scientist at Micron Technology** | Former Product Analyst Intern @ **ByteDance**  
 📍 Based in Pittsburgh, PA | Open to Data Science & Analytics roles in tech, finance, or healthcare  
 
 ---
